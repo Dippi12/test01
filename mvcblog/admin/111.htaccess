@@ -1,0 +1,4 @@
+AuthType Basic
+Auth "Admin Panel"
+AuthUserFile D:\OpenServer\domains\localhost\mvcblog21\admin\.htpasswd
+Require valid-user
